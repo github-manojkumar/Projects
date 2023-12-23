@@ -5,3 +5,5 @@
 # Screenshot :
 
 ![Preview of project](image.png)
+
+![Preview mobile](image-1.png)
