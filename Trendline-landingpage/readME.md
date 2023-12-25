@@ -5,3 +5,5 @@
 # Screenshot :
 
 ![Preview Trendline](image.png)
+
+![mobile responsive](image-1.png)
